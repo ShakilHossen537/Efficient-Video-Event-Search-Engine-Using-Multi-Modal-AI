@@ -337,4 +337,4 @@ Mohali, Punjab, India
 
 Keywords
 
-Multi-Modal AI Video Retrieval Video Event Search Computer Vision CLIP Whisper EasyOCR OCR Natural Language Processing Information Retrieval Temporal Localization Quality-Aware Fusion QAAF Artificial Intelligence
+Multi-Modal AI, Video Retrieval, Video Event Search ,Computer Vision ,CLIP ,Whisper, EasyOCR, OCR ,Natural Language Processing, Information Retrieval,T emporal Localization, Quality-Aware Fusion, QAAF, Artificial Intelligence
